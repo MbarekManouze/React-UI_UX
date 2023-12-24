@@ -5,8 +5,7 @@ import {Navbar, Hero, Billing, Business,
             FeedbackCard, Footer,Getstarted,
               Stats, Testimonials}from './components'
 
-const App = () => {
-  return (
+const App = () => (
     <div className="bg-primary w-full overflow-hidden">
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
@@ -20,7 +19,7 @@ const App = () => {
         </div>
       </div>
 
-      <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
+      <div className={`bg-primary ${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
             <Stats />
             <Business />
@@ -33,7 +32,6 @@ const App = () => {
       </div>
 
     </div>
-  )
-}
+    )
 
 export default App
