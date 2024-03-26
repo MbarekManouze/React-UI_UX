@@ -7,7 +7,9 @@ This project is a simple web application built using React and styled with Tailw
 ## Features
 
 React Components: The application utilizes React components to create a modular and maintainable user interface. Components are used to encapsulate UI elements and manage their state and behavior.
+
 Tailwind CSS Styling: Tailwind CSS is used for styling the application, providing a utility-first approach to CSS that allows for rapid development and easy customization. Tailwind's utility classes make it simple to apply styles directly in JSX code, resulting in a consistent and visually appealing UI.
+
 Responsive Design: The application is designed to be responsive and accessible across various devices and screen sizes. Tailwind CSS's responsive design utilities are leveraged to ensure that the UI adapts seamlessly to different viewport sizes.
 
 ## Installation
