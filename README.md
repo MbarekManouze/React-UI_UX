@@ -15,8 +15,11 @@ Responsive Design: The application is designed to be responsive and accessible a
 To run the project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/MbarekManouze/React-UI_UX.git
+
 Navigate to the project directory: cd project-directory
+
 Install dependencies: npm install
+
 Start the development server: npm start
 
 ## Usage
